@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @openbigio
-- 👀 I’m interested in Big Data, Data Analytics, Data Science, Machine/Deep/Reinforcement Learning and AI, DevOps, MLOps, DataOps and GitOps.
+- 👋 Hi, we are @openbigio
+- 👀 We are interested in Open Soruce Software ecosystem for Big Data, Data Analytics, Data Science, Machine/Deep/Reinforcement Learning and AI. We embrace DevOps, MLOps, DataOps and GitOps. We love challenges.
 - 📫 How to reach me here.
 
 <!---
